@@ -1,1 +1,2 @@
-# sqll
+# sql
+sql quiries
